@@ -24,6 +24,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "babel-plugin-macros": "^2.4.4"
+    "babel-plugin-macros": "^2.4.4",
+    "jest-fetch-mock": "^2.1.0",
+    "react-testing-library": "^5.4.4"
   }
 }
